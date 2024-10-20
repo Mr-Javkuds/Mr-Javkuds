@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm a good person**
 
-If you want to be friends with me, DM me on instagram. Calm down I'm a good person. **"Yoroshiku Onegaishimasu🥰"**
+If you want to be friends with me, DM me on instagram. Calm down I'm a good person. 
 </br></br>
 
 <h4 align="left">Social media:</h4>
