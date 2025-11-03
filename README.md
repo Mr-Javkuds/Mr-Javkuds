@@ -1,88 +1,131 @@
-<h1 align="center">Hello 👋, I'm Yasin Muhammad Yusuf</h1>
-<h3 align="center">I'm Mobile Developer from Earth🌏</h3>
-</br>
-<img align="right" alt="Coding" width="366" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- Header Section -->
+<h1 align="center">Hello 👋, I'm <strong>Yasin Muhammad Yusuf</strong></h1>
+<h3 align="center">🌏 Mobile Developer | Java & Flutter Enthusiast | Lifelong Learner</h3>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=Mr-Javkuds&label=Profile%20views&color=0e75b6&style=flat"
-        alt="Mr-Javkuds" /> </p>
+<p align="center">
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif">
+</p>
 
-- 🔭 I'm studying at **SMK RUS**
+<p align="center">
+  <a href="https://github.com/Mr-Javkuds">
+    <img src="https://komarev.com/ghpvc/?username=Mr-Javkuds&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  </a>
+  <a href="https://github.com/Mr-Javkuds?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mr-Javkuds?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Java and Flutter**
+---
 
-- 👯 I’m looking to collaborate on **Mobile Programming**
+## 👨‍💻 About Me
+- 🎓 I’m a **student at SMK RUS (Raden Umar Said)**  
+- 💡 Passionate about **Mobile App Development**, **UI/UX**, and **Clean Code**
+- 🔭 Currently focusing on **Flutter**, **Java**, and **Firebase**
+- 💬 I love sharing knowledge about **software design patterns** and **frontend performance**
+- 🌱 Always exploring new frameworks & open-source projects
+- ⚡ Fun fact: *I drink matcha instead of coffee ☕💚*
+- 📫 Reach me anytime: **yasin.muhammad.yusuf@gmail.com**
 
-- 👨‍💻 All of my projects are available at **this Github**
+---
 
-- ⚡ Fun fact **I'm a good person**
+## 🛠️ Tech Stack & Tools
 
-If you want to be friends with me, DM me on instagram. Calm down I'm a good person. 
-</br></br>
-
-<h4 align="left">Social media:</h4>
+### 💻 Languages
 <p align="left">
-    <a href="https://twitter.com/YasinMuhammady5" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="YasinMYusuf" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/yasin_muhammad_yusuf/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="YasinMYusuf" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/profile.php?id=100057498272075" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt=" YasinMYusuf" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,js,dart,html,css" height="45" />
 </p>
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank"
-        rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40"
-            height="40" /> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img
-            src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender"
-            width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
-        href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a>
+### 📱 Frameworks & Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase,tailwind,unity" height="45" />
 </p>
 
-<br />
-<br />
-<a href="https://github.com/Mr-Javkuds">
-    <img height="180em" width="420em"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Javkuds&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
-    <img height="180em" width="420em"
-        src="https://github-readme-stats.vercel.app/api?username=Mr-Javkuds&show_icons=true&theme=tokyonight&text_color=ffffff&locale=en" />
-</a>
-<br />
-<br />
-<br />
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,blender,mysql" height="45" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/YasinMuhammady5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/yasin_muhammad_yusuf/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100057498272075" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" height="40" width="40"/>
+  </a>
+  <a href="mailto:yasin.muhammad.yusuf@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Javkuds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=38BDAE" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Javkuds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mr-Javkuds&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+| 🚀 Project | 📝 Description | 🧠 Tech Stack |
+|-------------|----------------|---------------|
+| **EduSense AI Module** | Interactive learning module for calculus & limits | HTML, Tailwind, Chart.js |
+| **Flutter Quiz App** | Dynamic quiz app with local DB and Firebase | Flutter, Dart, Firebase |
+| **Login UI Clone** | Modern login UI with animations and validation | Flutter, Provider |
+| **Arduino Motion System** | IoT-based motion detector prototype | Arduino, C++ |
+
+> 🔗 See more at [github.com/Mr-Javkuds?tab=repositories](https://github.com/Mr-Javkuds?tab=repositories)
+
+---
+
+## 🧠 Currently Learning
+- 🌐 Backend with **Node.js** & **Express**  
+- 🧩 Database optimization using **MySQL** & **Firestore**  
+- 🧭 Design thinking & UI/UX for mobile experiences  
+
+---
+
+## 🎮 Fun Zone
+> 💬 *“Code is like humor — when you have to explain it, it’s bad.”*  
+> — Cory House  
+
+🎮 Hobbies: gaming, designing UI, tinkering with electronics  
+📸 Interests: motion graphics, Flutter animation, and web interactivity  
+
+---
+
+## 🎯 Goals for 2025
+- ✅ Publish 3+ production-ready mobile apps  
+- 🧩 Release a custom Flutter package  
+- 🤝 Contribute to open-source education tools  
+- 🌍 Launch a personal portfolio website  
+
+---
+
+## 💖 Support & Collaboration
+If you like my work or want to collaborate:
+- ⭐ Star my repositories  
+- 🔄 Fork and improve projects  
+- ☕ Buy me a matcha and say hi!
+
+<p align="center">
+  <a href="https://github.com/Mr-Javkuds">
+    <img src="https://img.shields.io/badge/Follow%20@Mr--Javkuds-1DA1F2?style=for-the-badge&logo=github" alt="follow badge"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my GitHub profile ✨</h3>
+<p align="center">Let’s create something impactful together 🚀</p>
