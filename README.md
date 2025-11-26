@@ -66,9 +66,9 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Javkuds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=38BDAE" height="180em" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Javkuds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" /> -->
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Javkuds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=38BDAE" height="180em" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Javkuds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
 </p>
 
 <p align="center">
