@@ -42,7 +42,7 @@
 
 ### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,blender,mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,mysql" height="45" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-Javkuds&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=38BDAE" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Javkuds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mr-Javkuds&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180em" /> -->
 </p>
 
 <p align="center">
@@ -126,6 +126,6 @@ If you like my work or want to collaborate:
 </p>
 
 ---
-
+   
 <h3 align="center">✨ Thanks for visiting my GitHub profile ✨</h3>
 <p align="center">Let’s create something impactful together 🚀</p>
